@@ -171,7 +171,7 @@ http://saga10.pro:80/345715/562156/1263093
 http://saga10.pro:80/345715/562156/1263096
 #EXTINF:-1 group-title="CANAIS TELECINE" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/46pL8w.png",TELECINE PIPOCA FHD
 http://saga10.pro:80/345715/562156/1263099
-#EXTINF:-1 group-title="CANAIS TELECINE" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/p7DGJi.png",TELECINE PREMIUM FHD
+#EXTINF:-1 tvg-id="telecine-premium" group-title="CANAIS TELECINE" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/p7DGJi.png",TELECINE PREMIUM FHD
 http://saga10.pro:80/345715/562156/1263102
 #EXTINF:-1 group-title="CANAIS TELECINE" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/EIDqSw.png",TELECINE TOUCH FHD
 http://saga10.pro:80/345715/562156/1263105
